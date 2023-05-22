@@ -1,0 +1,70 @@
+
+.img
+{
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    
+}
+.mainCenter
+{
+    position: relative;
+    top: 25%;
+    left: 25%;
+    right: 25%;
+}
+.bg
+{ 
+    width: 300px;
+    position: absolute;
+    border-radius: 100%;
+}
+.bg2
+{ 
+    float: right;
+    width: 300px;
+    position: relative;
+    border-radius: 100%;
+}
+
+.center
+{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.allNBA
+{
+    height: 500px;
+    width: 800px;
+    padding: 10px;
+}
+.GameWinner
+{
+    height: 315.5px;
+}
+
+.tabBackgrounds
+{
+    background-color: #00538C;
+}
+.text
+{
+    background-color: #00843D;
+    border: solid 2px white;
+    text-align: center;
+    
+}
+.kyrie2
+{
+    height: 500px;
+    padding: 10px;
+}
+.wood
+{
+    height: 500px;
+    padding-left:  40px;
+    padding-right: 40px;
+}
+
